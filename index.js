@@ -10,4 +10,3 @@ function writeCards(names, event){
   }
   return massages;
 }
-
