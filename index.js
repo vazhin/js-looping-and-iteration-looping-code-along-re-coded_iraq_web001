@@ -10,12 +10,8 @@ function writeCards(name, event){
       massages.push(`Thank you, ${name[i]}, for the wonderful ${event} gift!`)])
     }
   }
-  console.log(massages);
+  return massages;
 }
-
-
-
-
 
 
 
