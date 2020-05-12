@@ -10,6 +10,6 @@ function writeCards(names, event){
 
 function countDown (positiveInt){
   let i = positiveInt;
-  while ( i > 0)
+  while ( i >= 0)
   console.log(i--);
 }
