@@ -7,3 +7,9 @@ function writeCards(names, event){
   }
   return massages;
 }
+
+function countDown (positiveInt){
+  let i = positiveInt.length;
+  while ( i >= 0)
+  console.log(i--);
+}
