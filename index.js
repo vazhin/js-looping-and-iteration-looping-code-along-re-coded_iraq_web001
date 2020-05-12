@@ -13,6 +13,4 @@ function writeCards(name, event){
   return massages;
 }
 
-
-
 writeCards(names, "birthday");
